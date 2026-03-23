@@ -19,6 +19,14 @@ El ZIP incluye OpenFace para Windows con modelos ya agregados.
 
    .\FaceLandmarkVidMulti.exe -device 0 -out_dir ".\salidas\grupo_webcam" -of "grupo_live"
 
+## Archivos de salida
+
+Los resultados se guardarán en la carpeta `salidas` e incluye archivos como:
+
+- `.csv` → datos numéricos por frame
+- `.avi` → video procesado
+- `.hog` → características HOG
+- `.txt` → resumen de configuración y salida
+
 ## Notas
 - Usar `Ctrl + C` para detener la ejecución
-- Los resultados se guardan en la carpeta `salidas`
