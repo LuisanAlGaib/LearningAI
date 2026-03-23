@@ -29,4 +29,4 @@ Los resultados se guardarán en la carpeta `salidas` e incluye archivos como:
 - `.txt` → resumen de configuración y salida
 
 ## Notas
-- Usar `Ctrl + C` para detener la ejecución
+- Usar `q` para detener la ejecución
